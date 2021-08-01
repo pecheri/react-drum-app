@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/pecheri/react-drum-app.git/static/css/main.d065b729.chunk.css",
-    "main.js": "/pecheri/react-drum-app.git/static/js/main.4b9493ed.chunk.js",
-    "main.js.map": "/pecheri/react-drum-app.git/static/js/main.4b9493ed.chunk.js.map",
-    "runtime-main.js": "/pecheri/react-drum-app.git/static/js/runtime-main.48c506f6.js",
-    "runtime-main.js.map": "/pecheri/react-drum-app.git/static/js/runtime-main.48c506f6.js.map",
-    "static/js/2.777ac845.chunk.js": "/pecheri/react-drum-app.git/static/js/2.777ac845.chunk.js",
-    "static/js/2.777ac845.chunk.js.map": "/pecheri/react-drum-app.git/static/js/2.777ac845.chunk.js.map",
-    "index.html": "/pecheri/react-drum-app.git/index.html",
-    "static/css/main.d065b729.chunk.css.map": "/pecheri/react-drum-app.git/static/css/main.d065b729.chunk.css.map",
-    "static/js/2.777ac845.chunk.js.LICENSE.txt": "/pecheri/react-drum-app.git/static/js/2.777ac845.chunk.js.LICENSE.txt"
+    "main.css": "/react-drum-app/static/css/main.d065b729.chunk.css",
+    "main.js": "/react-drum-app/static/js/main.4b9493ed.chunk.js",
+    "main.js.map": "/react-drum-app/static/js/main.4b9493ed.chunk.js.map",
+    "runtime-main.js": "/react-drum-app/static/js/runtime-main.fd97cfd9.js",
+    "runtime-main.js.map": "/react-drum-app/static/js/runtime-main.fd97cfd9.js.map",
+    "static/js/2.777ac845.chunk.js": "/react-drum-app/static/js/2.777ac845.chunk.js",
+    "static/js/2.777ac845.chunk.js.map": "/react-drum-app/static/js/2.777ac845.chunk.js.map",
+    "index.html": "/react-drum-app/index.html",
+    "static/css/main.d065b729.chunk.css.map": "/react-drum-app/static/css/main.d065b729.chunk.css.map",
+    "static/js/2.777ac845.chunk.js.LICENSE.txt": "/react-drum-app/static/js/2.777ac845.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.48c506f6.js",
+    "static/js/runtime-main.fd97cfd9.js",
     "static/js/2.777ac845.chunk.js",
     "static/css/main.d065b729.chunk.css",
     "static/js/main.4b9493ed.chunk.js"
